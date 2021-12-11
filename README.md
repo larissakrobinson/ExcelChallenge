@@ -5,7 +5,7 @@ Louise's play Fever sparked a further curiosity about how her campaign launch da
 ### Purpose
 Our challenge was to find correlation between the launch date and funding goals for Louise using our Kickstarter data set. 
 
-**##Analysis and Challenges**
+
 
 ### Analysis of Outcomes Based on Launch Date
 ![](Resources/TOLD.png)
