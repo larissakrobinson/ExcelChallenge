@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-![](Outcomes Based on Goals.png)
+![]("Outcomes Based on Goals.png")
 
 ## Analysis and Challenges
 
