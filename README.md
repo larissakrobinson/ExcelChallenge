@@ -5,7 +5,7 @@ Louise's play Fever sparked a further curiosity about how her campaign launch da
 ### Purpose
 Our challenge was to find correlation between the launch date and funding goals for Louise using our Kickstarter data set. 
 
-#Analysis and Challenges
+##**Analysis and Challenges**
 
 ### Analysis of Outcomes Based on Launch Date
 ![](Resources/TOLD.png)
@@ -21,18 +21,18 @@ Our challenge was to find correlation between the launch date and funding goals 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**What are two conclusions you can draw about the Outcomes based on Launch Date?**
 - Louise would have a higher likelihood of success if she launched her theatre event in the summer
 
-- What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?**
 - Louise would have a higher likelihood of success if she kept her goals below $25,000
 
-- What are some limitations of this dataset?
+**What are some limitations of this dataset?**
 - Louise has events all over the globe. Filtering by location may be helpful
 - Number of backers needed in order to fill the goals would be helpful to see. 
 - We also do not see attendance for Louise's events. 
 
-- What are some other possible tables and/or graphs that we could create?
+**What are some other possible tables and/or graphs that we could create?**
 - Filter by country 
 - Filter by number of backers 
 - Chart to show number of backers vs. goals 
