@@ -9,11 +9,15 @@ Our challenge was to find correlation between the launch date and funding goals 
 
 ### Analysis of Outcomes Based on Launch Date
 ![](Resources/TOLD.png)
+
+
 -Theatre launch dates in the summer months were more successful than theatre launches in the winter
 -Even when Louise had theatre launches in the summer months she still only had a 50% success rate based on total number of failed theatre events vs. total number of successful theatre events
 
 ### Analysis of Outcomes Based on Goals
 ![](Resources/OBG.png)
+
+
 -Goals less than $1,000 were the most successful. The rate of success drops after goals beyond $25,000
 
 ### Challenges and Difficulties Encountered
