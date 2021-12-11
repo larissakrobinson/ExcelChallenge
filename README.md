@@ -1,16 +1,22 @@
-# Kickstarting with Excel
 
 ## Overview of Project
+Louise's play Fever sparked a further curiosity about how her campaign launch dates relate to achieving her fundraising goals. 
 
 ### Purpose
+Our challenge was to find correlation between the launch date and funding goals for Louise using our Kickstarter data set. 
+
 ![](Resources/OBG.png)
 ![](Resources/TOLD.png)
 
 ## Analysis and Challenges
 
+
 ### Analysis of Outcomes Based on Launch Date
+![](Resources/TOLD.png)
 
 ### Analysis of Outcomes Based on Goals
+
+![](Resources/OBG.png)
 
 ### Challenges and Difficulties Encountered
 
